@@ -5,7 +5,7 @@ h1{
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-size: 25px;
 	color:  #04314E;
-	text-decoration: underline;
+
 }
 
 .main{
@@ -55,23 +55,22 @@ h1{
 	display: flex;
 	background-color:dimgrey;
 	height:1600px;
-	width:80px;
+	width:51px;
 	list-style: none;
 
 }
 
-	/*
 .flex-container {
   display: flex;
-  background-color: DodgerBlue;
+	width: 700px;
+
 }
 
 .flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}*/
+   margin: 10px;
+  padding: 10px;
+  font-size:16px;
+}
 header {
     width: 80%;
 	height: 8%;
@@ -108,7 +107,8 @@ ul li a {
 	text-decoration: none;
 }
 ul li:hover a{
-	color:teal;
+	color:#011357;
+	text-decoration: underline;
 	
 }
 	
